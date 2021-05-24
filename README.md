@@ -1,7 +1,7 @@
 ### Hello there ^_^ 👋
-
-- 🔭 I’m currently working on coding skills
-- 🌱 I’m currently learning python, javascript
+<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2710024-Coding&psig=AOvVaw0KlJD9dLirAh6Y0lYKYlBv&ust=1621929694704000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjXv43t4fACFQAAAAAdAAAAABAN"/>
+- 🔭 I’m currently working on my coding skills 👨‍💻
+- 🌱 I’m currently learning python, javascript 
 - 🤔 I’m looking for help with debuging errors 🤣
 - 💬 Ask me about programing
 - ⚡ Fun fact: I don't attend my college classes.
