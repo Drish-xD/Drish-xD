@@ -16,6 +16,7 @@
 
 ### Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drish-xD&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drish-xD&bg_color=011627&hide_border=1&text_color=F5F5F5&title_color=c792ea" />
+
 ---
-<img scr="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="200px"/>
+
