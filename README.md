@@ -10,11 +10,11 @@
 
 ### Stats 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border=1&text_color=F5F5F5")
+<img src="https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border=1&text_color=F5F5F5" />
  
 ---
 
 ### Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drish-xD)](https://github.com/anuraghazra/github-readme-stats&bg_color=151515")
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drish-xD)](https://github.com/anuraghazra/github-readme-stats&bg_color=151515" />
 
