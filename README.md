@@ -1,5 +1,8 @@
 ### Hello there ^_^ 👋
-<img scr="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"/>
+
+<img scr="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="100px"/>
+
+
 - 🔭 I’m currently working on my coding skills 👨‍💻
 - 🌱 I’m currently learning python, javascript 
 - 🤔 I’m looking for help with debuging errors 🤣
