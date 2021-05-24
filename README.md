@@ -1,22 +1,35 @@
-### Hello there ^_^ 👋
+# Hello there ^\_^ 👋
 
 - 🔭 I’m currently working on my coding skills 👨‍💻
-- 🌱 I’m currently learning python, javascript 
+- 🌱 I’m currently learning python, javascript
 - 🤔 I’m looking for help with debuging errors 🤣
 - 💬 Ask me about programing
 - ⚡ Fun fact: I don't attend my college classes.
 
 ---
 
-### Stats 
+## Interested? Connect with me!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border=1&text_color=F5F5F5" />
- 
----
-
-### Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drish-xD&bg_color=011627&hide_border=1&text_color=F5F5F5&title_color=c792ea" />
+[<img align="left" alt="https://drish-xd.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
+## Stats
+
+![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border=1&text_color=F5F5F5)
+
+---
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drish-xd&langs_count=8&bg_color=011627&hide_border=1&text_color=F5F5F5&title_color=c792ea)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[website]: https://drish-xd.github.io/
+[twitter]: https://twitter.com/Drish_xD
+[instagram]: https://instagram.com/drish_xd
+[linkedin]: https://www.linkedin.com/in/drish-338233207/
