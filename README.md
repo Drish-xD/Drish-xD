@@ -1,6 +1,6 @@
 ### Hello there ^_^ 👋
 
-<img scr="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif" width="100px"/>
+<img scr="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="200px"/>
 
 
 - 🔭 I’m currently working on my coding skills 👨‍💻
