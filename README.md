@@ -9,4 +9,4 @@
 ---
 ### Stats 
 
-![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl)
+![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border)
