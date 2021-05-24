@@ -16,5 +16,5 @@
 
 ### Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drish-xD)](https://github.com/anuraghazra/github-readme-stats&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drish-xD&bg_color=151515" />
 
