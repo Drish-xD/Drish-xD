@@ -1,8 +1,5 @@
 ### Hello there ^_^ 👋
 
-### <img scr="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="200px"/>
-
-
 - 🔭 I’m currently working on my coding skills 👨‍💻
 - 🌱 I’m currently learning python, javascript 
 - 🤔 I’m looking for help with debuging errors 🤣
@@ -20,4 +17,5 @@
 ### Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drish-xD&bg_color=151515" />
-
+---
+<img scr="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="200px"/>
