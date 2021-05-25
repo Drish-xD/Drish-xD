@@ -17,8 +17,31 @@
 <br/>
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
+&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+&nbsp;
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
+
+<br/>
+
+---
+
+## Languages
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+&nbsp;
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+&nbsp;
+<img src="{BadgeURLHere}" />
+&nbsp;
 
 <br/>
 
@@ -33,17 +56,6 @@
 <br/>
 
 ---
-
-## Languages
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drish-xd&langs_count=8&bg_color=011627&hide_border=1&text_color=F5F5F5&title_color=c792ea)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
----
-
 [website]: https://drish-xd.github.io/
 [twitter]: https://twitter.com/Drish_xD
 [instagram]: https://instagram.com/drish_xd
