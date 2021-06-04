@@ -67,6 +67,8 @@
 <br/>
 
 ![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border=1&text_color=F5F5F5)
+<br/>
+![Profile views](https://gpvc.arturio.dev/[Drish-xd])
 
 <br/>
 
