@@ -77,4 +77,4 @@
 [website]: https://drish-xd.github.io/
 [twitter]: https://twitter.com/Drish_xD
 [instagram]: https://instagram.com/drish_xd
-[linkedin]: https://www.linkedin.com/in/drish-338233207/
+[linkedin]: https://www.linkedin.com/in/drish-xd/
