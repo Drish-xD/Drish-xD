@@ -1,4 +1,4 @@
-# Hello there ^\_^ 👋
+# Hello there ^_^ 👋
 
 <br/>
 
