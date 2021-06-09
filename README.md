@@ -14,8 +14,6 @@
 
 ## Interested? Connect with me!
 
-<br/>
-
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
@@ -28,8 +26,6 @@
 
 ## Languages
 
-<br/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
@@ -38,11 +34,7 @@
 
 <br/>
 
----
-
 ## Database
-
-<br/>
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
@@ -50,30 +42,25 @@
 
 <br/>
 
----
-
 ## OS
-
-<br/>
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
-
-
-<br/>
-
-## Stats
-
-<br/>
-
-![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border=1&text_color=F5F5F5)
-
-
-![](https://komarev.com/ghpvc/?username=your-github-drish-xd&color=011627)
-
 <br/>
 
 ---
+
+## Stats
+
+![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border=1&text_color=F5F5F5)
+
+---
+
+### Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/drish-xd/count.svg)
+
+---
+
 [website]: https://drish-xd.github.io/
 [twitter]: https://twitter.com/Drish_xD
 [instagram]: https://instagram.com/drish_xd
