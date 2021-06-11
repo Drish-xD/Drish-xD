@@ -2,10 +2,10 @@
 
 
 ###  &nbsp;&nbsp;&nbsp;My name is Drish.
-- 💻 I'm a Computer Science student. <img src="https://emojis.slackmojis.com/emojis/images/1579113874/7530/hackerman.jpg?1579113874" style="width: 10%" />
-- 🔭 I’m currently working on my coding skills <img src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" style="width: 10%" />
-- 🌱 I’m currently learning Python.<img src="https://emojis.slackmojis.com/emojis/images/1516924200/3438/python.gif?1516924200" style="width: 10%" />
-- 🤔 I’m looking for help in debugging errors.<img src="https://emojis.slackmojis.com/emojis/images/1581521481/7799/kek.gif?1581521481" style="width: 10%" />
+- 💻 I'm a Computer Science student. 👨‍🎓
+- 🔭 I’m currently working on my coding skills👨‍💻
+- 🌱 I’m currently learning Python. 
+- 🤔 I’m looking for help in debugging errors. 
 <br/>
 
 ---
