@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web Devlopment. 
 - 😂 Here is a random joke that'll make you laugh!
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=watermelon&borderColor=%23D6DEEB&bgColor=%23011627)
 ---
 
 ## Interested? Connect with me!
