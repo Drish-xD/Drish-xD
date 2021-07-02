@@ -5,9 +5,9 @@
 - 💻 I'm a Computer Science student. 👨‍🎓
 - 🔭 I’m currently working on my coding skills👨‍💻
 - 🌱 I’m currently learning Python. 
-- 🤔 I’m looking for help in debugging errors. 
-<br/>
+- 😂 Here is a random joke that'll make you laugh!
 
+![Jokes Card](https://readme-jokes.vercel.app/api)<br/>
 ---
 
 ## Interested? Connect with me!
@@ -50,7 +50,8 @@
 
 ## Stats
 
-![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl&hide_border=1&text_color=F5F5F5)
+![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drish-xD&theme=nightowl)](https://git.io/streak-stats)
 
 ---
 
