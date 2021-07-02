@@ -4,10 +4,11 @@
 ###  &nbsp;&nbsp;&nbsp;My name is Drish.
 - 💻 I'm a Computer Science student. 👨‍🎓
 - 🔭 I’m currently working on my coding skills👨‍💻
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently learning Web Devlopment. 
 - 😂 Here is a random joke that'll make you laugh!
 
-![Jokes Card](https://readme-jokes.vercel.app/api)<br/>
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ---
 
 ## Interested? Connect with me!
