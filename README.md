@@ -57,6 +57,8 @@
 
 ---
 
+<img align="center" src="https://github.com/YOUR_USERNAME/Drish-xD/blob/output/github-contribution-grid-snake.gif" alt="Snake"/>
+
 ### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/drish-xd/count.svg)
 
