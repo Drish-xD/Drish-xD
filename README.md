@@ -49,9 +49,11 @@
 ---
 
 ## Stats
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl" alt="Drish-xD"/>
+&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drish-xD&theme=nightowl" alt="Drish-xD"/>
 
-![Drish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl) 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Drish-xD&theme=nightowl)](https://git.io/streak-stats)
 
 ---
 
