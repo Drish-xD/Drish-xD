@@ -57,7 +57,7 @@
 
 ---
 
-![snake gif](https://github.com/Drish-xD/Drish-xD/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Drish-xD/Drish-xD/output/github-contribution-grid-snake.svg)
 
 ### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/drish-xd/count.svg)
