@@ -50,9 +50,9 @@
 
 ## Stats
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl" alt="Drish-xD"/>
+<img style="align:center" src="https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl" alt="Drish-xD"/>
 &nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drish-xD&theme=nightowl" alt="Drish-xD"/>
+<img style="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drish-xD&theme=nightowl" alt="Drish-xD"/>
 
 
 ---
