@@ -1,70 +1,39 @@
-# Hello there ^_^ 👋
-
-
-###  &nbsp;&nbsp;&nbsp;My name is Drish.
-- 💻 I'm a Computer Science student. 👨‍🎓
-- 🔭 I’m currently working on my coding skills👨‍💻
-- 🌱 I’m currently learning Web Devlopment. 
-- 😂 Here is a random joke that'll make you laugh!
-
-![Jokes Card](https://readme-jokes-8hatq8hxf.vercel.app/api?theme=watermelon&borderColor=%23D6DEEB&bgColor=%23011627)
----
-
-## Interested? Connect with me!
-
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-&nbsp;
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
-
-<br/>
+<h2 style="text-align: center;">
+<img src="https://emojis.slackmojis.com/emojis/images/1665051119/61583/vibe-rabbit.gif?1665051119" width="30"/> Bonjour, je suis Drish! <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif" width="30"> </h2>
 
 ---
 
-## Languages
+### <img src="https://emojis.slackmojis.com/emojis/images/1643515118/11386/among_us_orange_dance.gif" width="18"> A little more about me...
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;
-
-<br/>
-
-## Database
-
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-
-
-<br/>
-
-## OS
-
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
-<br/>
-
----
-
-## Stats
-  
-<img style="align:center" src="https://github-readme-stats.vercel.app/api?username=Drish-xD&show_icons=true&theme=nightowl" alt="Drish-xD"/>
-&nbsp;
-<img style="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=Drish-xD&theme=nightowl" alt="Drish-xD"/>
-
+```js
+const drish = {
+  pronouns: "He" | "Him",
+  role: "Front-end Developer",
+  code: ["Javascript", "Python", "Dart"],
+  technologies: {
+    frontEnd: [
+      ["Html", "CSS", "JavaScript", "Scss", "JQuery"],
+      ["Bootstrap", "Tailwind", "Materialize"],
+      ["React.js", "Redux", "Next.js", "Gatsby"],
+      ["Vue.js"],
+    ],
+    mobileApp: ["Flutter", "React Native"],
+    backEnd: ["Node.js", "Flask"],
+    databases: ["MySql", "SQLite", "MongoDB"],
+    misc: ["Firebase", "AppWrite", "Supabase"],
+    architecture: [
+      "Single Page Application",
+      "Serverless Architecture",
+      "Progressive web applications",
+      "JAM Stack with Static Rendering",
+    ],
+  },
+  askMeAbout: ["web dev", "app dev"],
+  currentFocus: "Full-Stack Development",
+};
+```
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/Drish-xD/Drish-xD/output/github-contribution-grid-snake.svg)
-
-### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/drish-xd/count.svg)
-
----
-
-[website]: https://drish-xd.is-a.dev/
-[twitter]: https://twitter.com/Drish_xD
-[instagram]: https://instagram.com/drish_xd
-[linkedin]: https://www.linkedin.com/in/drish-xd/
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
