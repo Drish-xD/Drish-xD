@@ -37,7 +37,7 @@ const drish = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-38%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -55,5 +55,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 20/06/2023 18:38:17 UTC
+ Last Updated on 21/06/2023 18:37:56 UTC
 <!--END_SECTION:waka-->
