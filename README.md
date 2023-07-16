@@ -35,7 +35,7 @@ const drish = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -45,15 +45,19 @@ const drish = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs               ████████████████████░░░░░   78.49 % 
+SCSS                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/07/2023 18:39:38 UTC
+ Last Updated on 16/07/2023 18:39:48 UTC
 <!--END_SECTION:waka-->
