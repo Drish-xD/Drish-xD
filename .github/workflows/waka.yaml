@@ -22,3 +22,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_PROFILE_VIEWS : "False"
