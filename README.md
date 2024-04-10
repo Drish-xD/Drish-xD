@@ -8,16 +8,16 @@
 const DRISH = {
   pronouns: "He" | "Him",
   role: "Front-end Developer",
-  code: ["Javascript", "Python", "Dart"],
+  code: ["Typescript", "JavaScript", "Dart"],
   technologies: {
     frontEnd: [
-      ["Html", "CSS", "JavaScript", "Typescript", "JQuery"],
-      ["Scss", "Bootstrap", "Tailwind", "Material UI"],
-      ["React.js", "Redux", "Next.js", "Gatsby"],
-      ["Vue.js", "GSAP"],
+      ["React.js", "Next.js", "JavaScript", "Typescript"],
+      ["HTML", "Css/Scss", "Tailwind", "UI Libraries"],
+      ["React-Query", "Redux", "Zustand", "Gatsby"],
+      ["Vue.js", "GSAP", "Framer-motion", "Axios"],
     ],
     mobileApp: ["Flutter", "React Native"],
-    backEnd: ["Node.js", "Flask"],
+    backEnd: ["Node.js", "Flask", "Nest.js"],
     databases: ["MySql", "SQLite", "MongoDB"],
     misc: ["Firebase", "AppWrite", "Supabase"],
     architecture: [
