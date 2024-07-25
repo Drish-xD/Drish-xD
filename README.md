@@ -35,11 +35,15 @@ const DRISH = {
 ---
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.7%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2041%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 155.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 170 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -47,6 +51,19 @@ const DRISH = {
  > 
 > 🔑 5 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
