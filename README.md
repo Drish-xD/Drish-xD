@@ -41,7 +41,9 @@ const DRISH = {
 
 **🐱 My GitHub Data** 
 
-> 📦 155.8 kB Used in GitHub's Storage 
+> 📦 156.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 288 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
