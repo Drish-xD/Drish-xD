@@ -41,7 +41,7 @@ const DRISH = {
 
 **🐱 My GitHub Data** 
 
-> 📦 156.0 kB Used in GitHub's Storage 
+> 📦 156.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
