@@ -41,13 +41,11 @@ const DRISH = {
 
 **🐱 My GitHub Data** 
 
-> 📦 156.1 kB Used in GitHub's Storage 
- > 
-> 🏆 370 Contributions in the Year 2024
+> 📦 156.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
