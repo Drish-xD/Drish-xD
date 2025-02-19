@@ -43,6 +43,8 @@ const DRISH = {
 
 > 📦 156.3 kB Used in GitHub's Storage 
  > 
+> 🏆 38 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 52 Public Repositories 
@@ -53,15 +55,13 @@ const DRISH = {
 
 ```text
 💬 Programming Languages: 
-Other                    9 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.42 % 
-TypeScript               1 min               ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.29 % 
-JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-eb_id                    11 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
