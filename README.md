@@ -43,8 +43,6 @@ const DRISH = {
 
 > 📦 156.4 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 53 Public Repositories 
