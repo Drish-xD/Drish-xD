@@ -4,32 +4,45 @@
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1643515118/11386/among_us_orange_dance.gif" width="18"> A little more about me...
 
-```js
-const DRISH = {
-  pronouns: "He" | "Him",
-  role: "Front-end Developer",
-  code: ["Typescript", "JavaScript", "Dart"],
-  technologies: {
-    frontEnd: [
-      ["React.js", "Next.js", "JavaScript", "Typescript"],
-      ["HTML", "Css/Scss", "Tailwind", "UI Libraries"],
-      ["React-Query", "Redux", "Zustand", "Gatsby"],
-      ["Vue.js", "GSAP", "Framer-motion", "Axios"],
+```json
+{
+  "name": "Drish",
+  "pronouns": ["He", "Him"],
+  "role": "Front-end Developer",
+  "code": ["Typescript", "JavaScript", "Dart", "Python"],
+  "stack": {
+    "frameworks": [
+      "Next.js", "React.js", "Vue.js",
+      "Hono.js", "Express.js", "Nest.js",
+      "Flutter", "React-Native", "Expo"
     ],
-    mobileApp: ["Flutter", "React Native"],
-    backEnd: ["Node.js", "Flask", "Nest.js"],
-    databases: ["MySql", "SQLite", "MongoDB"],
-    misc: ["Firebase", "AppWrite", "Supabase"],
-    architecture: [
-      "Single Page Application",
-      "Serverless Architecture",
-      "Progressive web applications",
-      "JAM Stack with Static Rendering",
+    "styling": [
+      "Tailwind CSS", "SCSS", "CSS"
     ],
+    "libraries": [
+      "React Query", "React Hook Form", "Zod",
+      "Axios", "Zustand", "Redux Toolkit",
+      "Framer Motion", "GSAP", "Drizzle ORM"
+    ],
+    "databases": [
+      "PostgreSQL", "SQLite", "MongoDB",
+      "Redis", "Firebase", "Supabase"
+    ]
   },
-  askMeAbout: ["web dev", "app dev"],
-  currentFocus: "Full-Stack Development",
-};
+  "architecture": {
+    "rendering": ["SSR", "SSG", "CSR", "ISR", "Edge Rendering"],
+    "application-models": ["SPA", "PWA", "MPA", "JAMstack"],
+    "design-patterns": ["Code Splitting", "Lazy Loading", "Micro Frontends"],
+    "state-management": ["Client-State", "Server-State"]
+  },
+  "focus-areas": [
+    "Frontend Architecture",
+    "Design Systems",
+    "Mobile Development",
+    "Developer Experience"
+  ],
+  "currently-exploring": ["Agentic Development", "DX Tooling"]
+}
 ```
 
 ---
